@@ -1,5 +1,5 @@
 {
-  ncaa: [
+  "ncaa": [
     {
       "id": "1",
       "name": "ncaa1"
@@ -29,7 +29,7 @@
       "name": "ncaa7"
     }
   ],
-  nflTeams: [
+  "nflTeams": [
     {
       "id": "1",
       "name": "Mumbai Indians"

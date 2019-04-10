@@ -1,0 +1,66 @@
+{
+  ncaa: [
+    {
+      "id": "1",
+      "name": "ncaa1"
+    },
+    {
+      "id": "2",
+      "name": "ncaa2"
+    },
+    {
+      "id": "3",
+      "name": "ncaa3"
+    },
+    {
+      "id": "4",
+      "name": "ncaa4"
+    },
+    {
+      "id": "5",
+      "name": "ncaa5"
+    },
+    {
+      "id": "6",
+      "name": "ncaa6"
+    },
+    {
+      "id": "7",
+      "name": "ncaa7"
+    }
+  ],
+  nflTeams: [
+    {
+      "id": "1",
+      "name": "Mumbai Indians"
+    },
+    {
+      "id": "2",
+      "name": "Rajasthan Royals"
+    },
+    {
+      "id": "3",
+      "name": "Chennai SuperKings"
+    },
+    {
+      "id": "4",
+      "name": "Sunrisers Hydrabad "
+    },
+    {
+      "id": "5",
+      "name": "Royal Challengers Banglore"
+    },
+    {
+      "id": "6",
+      "name": "Kolkatta Knight Riders"
+    },
+    {
+      "id": "7",
+      "name": "Delhi Capitals"
+    },
+    {
+      "id": "8",
+      "name": "Nagpur Tigers"
+    }
+  ]
+}
